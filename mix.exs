@@ -32,7 +32,6 @@ defmodule HotchartsParser.Mixfile do
     [
       {:floki, "~> 0.17.0"},
       {:httpotion, "~> 3.0.2"},
-      {:meeseeks, "~> 0.4.1"},
       {:poison, "~> 2.0"}
 
     ]
